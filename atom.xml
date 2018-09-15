@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://AngryBigCat.github.io/"/>
-  <updated>2018-09-14T20:13:29.560Z</updated>
+  <updated>2018-09-15T08:27:58.167Z</updated>
   <id>http://AngryBigCat.github.io/</id>
   
   <author>
@@ -18,27 +18,26 @@
   
   <entry>
     <title>用Hexo写第一篇博客</title>
-    <link href="http://AngryBigCat.github.io/2018/09/15/%E7%94%A8Hexo%E5%86%99%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://AngryBigCat.github.io/2018/09/15/用Hexo写第一篇博客/</id>
+    <link href="http://AngryBigCat.github.io/2018/09/15/write-the-first-blog-with-hexo.html"/>
+    <id>http://AngryBigCat.github.io/2018/09/15/write-the-first-blog-with-hexo.html</id>
     <published>2018-09-14T20:07:50.000Z</published>
-    <updated>2018-09-14T20:13:29.560Z</updated>
+    <updated>2018-09-15T08:27:58.167Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h2><p>这是第一步介绍</p><h3 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h3><p>这是第一章介绍</p><h3 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h3><p>这是第二章介绍</p><h3 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h3><p>这是第三章介绍</p>]]></content>
+    <content type="html"><![CDATA[<p>之前看过一篇用Hexo写博客的教程，对其充满了好奇心，于是便试了试Hexo这个工具，但当时也仅限于好奇心的驱使去使用，并不知其工具的本意。</p><p>如今静下心来，回顾自身，希望可以利用该工具提高写作水平，表达能力，巩固基础。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;第一步&quot;&gt;&lt;a href=&quot;#第一步&quot; class=&quot;headerlink&quot; title=&quot;第一步&quot;&gt;&lt;/a&gt;第一步&lt;/h2&gt;&lt;p&gt;这是第一步介绍&lt;/p&gt;
-&lt;h3 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;
+        &lt;p&gt;之前看过一篇用Hexo写博客的教程，对其充满了好奇心，于是便试了试Hexo这个工具，但当时也仅限于好奇心的驱使去使用，并不知其工具的本意。&lt;/p&gt;
+&lt;p&gt;如今静下心来，回顾自身，希望可以利用该工具提高写作水平，表达能力，巩固基础。&lt;/p&gt;
+
       
     
     </summary>
     
-      <category term="教程" scheme="http://AngryBigCat.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="闲聊" scheme="http://AngryBigCat.github.io/categories/%E9%97%B2%E8%81%8A/"/>
     
-    
-      <category term="Hexo" scheme="http://AngryBigCat.github.io/tags/Hexo/"/>
     
   </entry>
   
